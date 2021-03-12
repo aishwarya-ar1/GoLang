@@ -1,0 +1,1 @@
+This is the file I would like to read and print out using GoLanguage.
